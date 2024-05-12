@@ -55,7 +55,7 @@ const Sidebar = () => {
                         <Image fill alt="logo" src="/logo.png" />
                     </div>
                     <h1 className="text-2xl font-bold">
-                        Manifesto
+                        Fabricate
                     </h1>
                 </Link>
                 <div className="space-y-1">

@@ -7,7 +7,7 @@ export const Loader = () => {
                 <Image alt="logo" fill src="/logo.png" />
             </div>
             <p className="text-sm text-[#AF9B91] dark:text-[#BBC3DA]">
-                Manifesto is cooking something up...
+                Fabricate is fabricating...
             </p>
             <p className="text-sm text-[#AF9B91] dark:text-[#BBC3DA]">
                 (This can take up to a few minutes)
